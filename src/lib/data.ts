@@ -1,7 +1,8 @@
 export const personalInfo = {
   name: "Felopater Melika",
-  location: "Hendersonville, TN",
+  location: "Nashville, TN",
   email: "Felopater.codes@gmail.com",
+  phone: "+1 (615) 581-7035",
   github: "https://github.com/Felopater-Melika",
   linkedin: "https://www.linkedin.com/in/felopater-melika/",
 };
@@ -50,7 +51,7 @@ export const workExperience = [
   },
   {
     company: "Independent Software Consultant",
-    location: "Hendersonville, TN",
+    location: "Nashville, TN",
     position: "Shopify Developer",
     period: "June 2021",
     achievements: [
