@@ -66,19 +66,18 @@ export const education = [
 ];
 
 export const skills = {
-  languages: [
+  programmingLanguages: [
     'TypeScript',
     'JavaScript',
     'Rust',
     'SQL',
     'Python (for ML/OCR pipelines)',
   ],
-  frontend: ['Next.js', 'React', 'Tailwind', 'Expo / React Native', 'Astro'],
-  backend: ['Node.js', 'NestJS', 'Express', 'Rust (Axum)', 'Microservices'],
-  databases: ['PostgreSQL', 'Redis'],
-  infrastructure: ['Docker', 'AWS', 'Linux', 'Nix', 'CI/CD'],
-  ai: ['OCR', 'RAG', 'Embeddings', 'LLM Apps', 'Prompt Engineering'],
-  tools: ['Git', 'Shopify Liquid', 'Twilio Voice', 'Cesium.js'],
+  frontendDevelopment: ['Next.js', 'React', 'Tailwind', 'Expo / React Native', 'Astro'],
+  backendDevelopment: ['Node.js', 'NestJS', 'Express', 'Rust (Axum)', 'Microservices'],
+  databaseAndStorage: ['PostgreSQL', 'Redis'],
+  cloudAndDevOps: ['Docker', 'AWS', 'Linux', 'Nix', 'CI/CD', 'OCR', 'RAG', 'Embeddings', 'LLM Apps', 'Prompt Engineering'],
+  toolsAndServices: ['Git', 'Shopify Liquid', 'Twilio Voice', 'Cesium.js'],
   softSkills: [
     'Product Thinking',
     'Rapid Iteration',
